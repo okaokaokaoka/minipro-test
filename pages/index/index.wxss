@@ -19,3 +19,8 @@
 .usermotto {
   margin-top: 200px;
 }
+
+.hoge {
+  color: red;
+  font-size: 12px;
+}
